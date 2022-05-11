@@ -1,2 +1,3 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Projeto para ganho de conhecimento em sites responsivos
+
